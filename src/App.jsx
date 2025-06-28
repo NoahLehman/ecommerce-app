@@ -1,4 +1,3 @@
-// File: src/App.jsx
 import React, { useState } from 'react';
 import ProductList from './components/ProductList';
 import './App.css';

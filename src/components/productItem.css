@@ -1,8 +1,8 @@
 .product-item {
   display: flex;
   flex-direction: column;
-  align-items: center;    /* center content horizontally */
-  text-align: center;     /* center text */
+  align-items: center;
+  text-align: center;
   border: 1px solid #ccc;
   padding: 15px;
   border-radius: 8px;

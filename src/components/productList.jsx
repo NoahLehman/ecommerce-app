@@ -1,4 +1,3 @@
-// File: src/components/ProductList.jsx
 import React from 'react';
 import ProductItem from './ProductItem';
 import './ProductList.css';
