@@ -1,0 +1,11 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* vertical centering */
+  align-items: center;     /* horizontal centering */
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  box-sizing: border-box;
+  color: black;
+}
